@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1665580746,
-        "narHash": "sha256-0svHyw/iwrrB0qp7OEhP7bMxVaWjXAiY/wxMBgdk6JQ=",
+        "lastModified": 1667322135,
+        "narHash": "sha256-AHou2U9dRQrQbH/ClJKRsVL5w0s1/Dwu83itl7WRJIM=",
         "owner": "nim-nix-pkgs",
         "repo": "animatecss",
-        "rev": "ae10eafeae203f6147687e477ebcd231a70c9504",
+        "rev": "0ae592af66ea850a157e94c48a4076290d8d0a8b",
         "type": "github"
       },
       "original": {
@@ -50,11 +50,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1667110639,
-        "narHash": "sha256-4FbPESZ5LbqQxkJJJBAfk/zKgF9h/4kyUwjjpJwYlbc=",
+        "lastModified": 1667199707,
+        "narHash": "sha256-I2Js3Y7gUyVSEXPULHlBoRek4Lh85vnevdS6mdvDNLI=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "f38a1f04d1bec1feb61fd101a0539ae2002a7087",
+        "rev": "ced197be72099edcfa68ebed8b87af7b04851f45",
         "type": "github"
       },
       "original": {
