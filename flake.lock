@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667334364,
-        "narHash": "sha256-4e+lBMfYTP9+AnF9Dk0hHywU0ZqRVaOTx4GDlcKxlAA=",
+        "lastModified": 1668748643,
+        "narHash": "sha256-Ac/tFDHThCxG84hMSoZ6IjSk3ZWr0u86LrqKxKJ2M1o=",
         "owner": "nim-nix-pkgs",
         "repo": "animatecss",
-        "rev": "f6b28055a11dbf8abd70ed5be29bed10c2de506f",
+        "rev": "400a47cfc5a2893ef7e4ab14d52aadf7e9ef414e",
         "type": "github"
       },
       "original": {
